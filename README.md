@@ -72,7 +72,7 @@ Cada repositório representa um passo da minha jornada como desenvolvedor, demon
 
 ---
 
-# ⚙️ Ferramentas
+# ⚙️ Ferramentas e Ambientes
 
 <p align="center">
 
@@ -80,6 +80,11 @@ Cada repositório representa um passo da minha jornada como desenvolvedor, demon
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Antigravity-Development%20Environment-0D1117?style=for-the-badge&logo=openai&logoColor=00FF88&labelColor=0D1117"/>
+
+</p>
 ---
 
 # 📫 Contato
