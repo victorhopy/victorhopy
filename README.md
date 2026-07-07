@@ -41,9 +41,7 @@ Objetivo.......... Aprender continuamente e criar soluções úteis.
 # 🚀 Tecnologias em aprendizado
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,python" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
 ---
