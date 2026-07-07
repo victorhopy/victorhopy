@@ -97,3 +97,8 @@ Cada repositório representa um passo da minha jornada como desenvolvedor, demon
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorhopy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhopy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
