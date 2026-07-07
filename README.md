@@ -92,15 +92,18 @@ Cada repositório representa um passo da minha jornada como desenvolvedor, demon
 <p align="center">
 
 <a href="mailto:victor999scort@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/victorhopy_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/>
 </a>
 
 </p>
 
----
-
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=120&section=footer"/>
-
+<a href="mailto:victor999scort@gmail.com">victor999scort@gmail.com</a> •
+<a href="https://www.instagram.com/victorhopy_/">@victorhopy_</a>
 </p>
