@@ -99,6 +99,5 @@ Cada repositório representa um passo da minha jornada como desenvolvedor, demon
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorhopy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhopy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=120&section=footer"/>
 </p>
