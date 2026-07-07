@@ -90,15 +90,10 @@ Cada repositório representa um passo da minha jornada como desenvolvedor, demon
 # 📫 Contato
 
 <p align="center">
-
-<a href="mailto:victor999scort@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/victorhopy_/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-</a>
-
+  <a href="mailto:victor999scort@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/victorhopy_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
